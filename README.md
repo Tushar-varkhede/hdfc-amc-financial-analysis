@@ -1,4 +1,5 @@
 # HDFC AMC Financial Analysis
+**Prepared by:** Tushar Narendra Varkhede
 
 ## Financial Performance, Business Drivers & Relative Valuation Analysis of HDFC Asset Management Company
 
